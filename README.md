@@ -1,1 +1,1 @@
-# DogVsCat-VGG16 93.30% accuracy
+# DogVsCat-VGG16 97.650% accuracy
